@@ -6,3 +6,5 @@
 	- [Code](./max-of-each-subarray-gfg.py)
 3. Problem: https://leetcode.com/problems/sort-colors/description/
     - [Code](./lc-75-sort-color-dutch-flag-problem.py)
+4. Problem: https://leetcode.com/problems/two-sum/description/
+    - [Code](./lc-1-Two-Sum-hashmap.py)
